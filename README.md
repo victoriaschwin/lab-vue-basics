@@ -65,7 +65,7 @@ Yesterday you practiced showing a `string` inside a Vue component's template usi
 This challenge has two parts:
 
 - First, you just need to insert a mathematical operation inside your HTML and see what happens. Something as simple as `2 + 2` is enough here.
-- Then, the real challenge begins: you have to "print" a `string` on your template, with a twist: this string has to be returned by a function. Hint: [this article](https://lavalite.org/blog/created-and-mountedin-vuejs) can shed some light on how you can do this.
+- Then, the real challenge begins: you have to "print" a `string` on your template, with a twist: this string has to be returned by a function. Hint: [this article](https://lavalite.org/bl@og/created-and-mountedin-vuejs) can shed some light on how you can do this.
 
 ### Iteration 3 | Show an element only if a particular property is set to `true`
 
