@@ -5,7 +5,7 @@ import { ref } from 'vue';
 </script>
 
 <template>
-<div>
+<div class="flex">
   <a href="#">Logo</a>
   <div>
     <a href="#">Home</a>
@@ -17,5 +17,7 @@ import { ref } from 'vue';
 </template>
 
 <style scoped>
-
+.flex{
+  display: flex;
+}
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex">
     <img src="../assets/vue.svg" alt="logo">
     <div>
       <a href="#">Team</a>
@@ -17,5 +17,7 @@
 </script>
 
 <style>
-
+.flex{
+  display: flex;
+}
 </style>
